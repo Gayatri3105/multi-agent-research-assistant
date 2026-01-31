@@ -41,6 +41,3 @@ The system performs intelligent research using **web search, vector memory (RAG)
   - Transparent research workflow
 
 ---
-
-## 🏗️ Architecture Overview
-
