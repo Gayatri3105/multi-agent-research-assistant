@@ -1,0 +1,54 @@
+# Core API & UI
+fastapi
+uvicorn[standard]
+streamlit
+pydantic
+websockets
+sse-starlette
+
+# LangChain + LangGraph
+langchain
+langgraph
+langchain-community
+langchain-core
+langsmith
+
+# LLM & Embeddings
+groq
+sentence-transformers
+transformers
+torch
+tiktoken
+
+# Vector DB
+chromadb
+
+# Web & Search
+duckduckgo-search
+requests
+httpx
+
+# Document Processing
+pypdf
+pdfplumber
+beautifulsoup4
+lxml
+python-docx
+openpyxl
+pandas
+
+# Vision / OCR
+pytesseract
+pillow
+opencv-python
+
+# Utilities & Reliability
+python-dotenv
+loguru
+rich
+tenacity
+tqdm
+
+# Testing
+pytest
+pytest-asyncio
